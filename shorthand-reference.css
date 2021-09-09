@@ -1,0 +1,79 @@
+/*
+
+#spacing {
+    padding: top right bottom left; 
+    margin: top right bottom left; 
+}
+
+.appearance {
+    background: colorValue url(image location) repeat-option position;
+    border: width style color;
+}
+
+#typography {
+    font: style weight size/line-height  font-family;
+}
+
+*/
+
+#spacing {
+    padding: 10px 5px 12px 10px;
+    margin: 10px 5px 12px 10px;
+}
+
+.appearance {
+    background: #000000 url(images/bg.png) no-repeat top left; 
+    border: 1px solid #000000;
+}
+
+/* 
+
+border-style: 
+    solid
+    dotted
+    dashed
+    double
+    groove
+    ridge
+    inset
+    outset
+    none
+    hidden; 
+
+
+background-position: 
+    left top
+    left center
+    left bottom
+    right top
+    right center
+    right bottom
+    center top
+    center center
+    center bottom
+    [percentage, percentage]
+    [x, y];    
+*/
+
+
+#typography {
+    font: normal 200 12px/1.5em Open-Sans, san-serif;
+}
+
+/*
+
+font-style: 
+    normal
+    italic
+    initial;
+
+font-weight: 
+    normal
+    bold
+    bolder
+    lighter
+    numeric value between 100-900
+    initial 
+    inherit;    
+
+*/
