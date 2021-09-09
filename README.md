@@ -1,2 +1,2 @@
-# shorthand-reference
+# CSS Shorthand References
 A reference of CSS shorthand properties.
